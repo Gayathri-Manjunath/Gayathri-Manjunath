@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋  
 
+I'm Gayathri,Computer Science Engineering Student,graduating in 2027
+I build full-stack web applications and enjoy solving problems with clean, efficient code
+Currently deepening my knowledge in System Design / DSA / ML / AI
+Looking for **Software Engineering internship & full-time opportunities**
+Let's connect: bmgayathrimanjunath@gmail.com | www.linkedin.com/in/
+b-m-gayathri-4b243a328
+I also use Figma for UI design
 <!--
 **Gayathri-Manjunath/Gayathri-Manjunath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
