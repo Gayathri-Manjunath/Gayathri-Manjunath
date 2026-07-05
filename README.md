@@ -12,21 +12,6 @@ I also use Figma for UI design
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🛠️ Tools & Technologies
-
-**Languages:** Python, C++, Java, JavaScript
-
-**ML/NLP:**  PyTorch, Transformers
-
-**Web Dev:** React, Node.js, HTML, CSS
-
-**Database:** MySQL, MongoDB
-
-**Version Control:** Git, GitHub
-
-**Other Tools:** Google Colab, VS Code, Postman
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💻 Programming Languages
 
