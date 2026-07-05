@@ -15,17 +15,17 @@ I also use Figma for UI design
 
 ## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,go,mysql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,java,js,go" />
 
 ## ⚛️ Frameworks & Technologies
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 
 ---
 
 ## 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
 
 ## 🤝 Let's Connect
 
