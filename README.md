@@ -41,5 +41,5 @@ I also use Figma for UI design
 
 <br>
 
-*"Always curious. Always building."* 🚀
+*"🚀 *Building today what the world needs tomorrow.*"* 🚀
 
